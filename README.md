@@ -1,0 +1,3 @@
+# Boston House Price Prediction
+
+Boston House Price Prediction is a machine learning project in which a linear regression model is trained to predict the prices of houses in Boston based on various features such as crime rate, average number of rooms per dwelling, accessibility to highways, etc. The project involves data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation. The goal of this project is to provide a valuable insight into the factors affecting house prices and to develop an accurate predictive model that can be used by real estate agents and prospective buyers/sellers to make informed decisions. The project code can be found on GitHub and can be used as a reference for similar machine learning projects.
